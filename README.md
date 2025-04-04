@@ -17,10 +17,6 @@ User-friendly Python implementation with minimal dependencies.
 
 Dipolar Bose-Einstein condensates exhibit unique properties due to long-range dipole-dipole interactions, which differ from conventional BECs with only short-range contact interactions. The excitation spectrum of a dipolar BEC provides critical insight into its stability, superfluidity, and phase transitions. This toolbox allows researchers to numerically compute these excitations efficiently.
 
-# Installation
-
-To use the toolbox, follow these steps:
-
 # Prerequisites
 
 Ensure you have Python 3.x installed along with the following dependencies:
